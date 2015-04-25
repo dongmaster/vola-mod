@@ -3,6 +3,18 @@
 // @namespace   org.lg188.volafile-mod
 // @description Aids the current volafile moderators
 // @include     https://volafile.io/*
+// @exclude     https://volafile.io/
+// @exclude     https://volafile.io/rules
+// @exclude     https://volafile.io/top/*
+// @exclude     https://volafile.io/tos
+// @exclude     https://volafile.io/privacy
+// @exclude     https://volafile.io/impressum
+// @exclude     https://volafile.io/user/*
+// @exclude     https://volafile.io/donate
+// @exclude     https://volafile.io/about
+// @exclude     https://volafile.io/faq
+// @exclude     https://volafile.io/different
+// @exclude     https://volafile.io/credits
 // @version     0.2.0-rc2
 // @grant       none
 // @require     https://code.jquery.com/jquery-2.1.3.js
